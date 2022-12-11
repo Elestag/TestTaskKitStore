@@ -2,4 +2,7 @@
     <string name="app_name">TestTaskKitStore</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="play_game">Play Game</string>
+    <string name="make_all_green">Make all green</string>
 </resources>

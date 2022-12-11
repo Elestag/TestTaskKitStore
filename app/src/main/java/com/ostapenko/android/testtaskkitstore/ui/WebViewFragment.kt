@@ -26,6 +26,4 @@ class WebViewFragment:Fragment() {
 
         return view
     }
-
-
 }
